@@ -25,6 +25,7 @@
 
 This project is a simple event driven architecture communication system using Kafka.
 It is mainly used for testing purposes.
+![architecture](https://ibb.co/gV5vw6B)
 
 <br><br>Services:
 
