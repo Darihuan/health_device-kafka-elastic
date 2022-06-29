@@ -24,8 +24,8 @@
 ## About The Project
 
 This project is a simple event driven architecture communication system using Kafka.
-It is mainly used for testing purposes.
-![architecture](https://ibb.co/gV5vw6B)
+It is mainly used for testing purposes.<br/>
+![architecture]([https://ibb.co/gV5vw6B](https://i.ibb.co/0tgBZQd/healthapp-drawio.png))
 
 <br><br>Services:
 
